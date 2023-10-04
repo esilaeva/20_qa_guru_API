@@ -40,10 +40,4 @@ public class BookSpec extends TestBase {
             .log(BODY)
             .expectStatusCode(400)
             .build();
-
-    public static ResponseSpecification unauthorizedDeleteBook401ResponseSpec = new ResponseSpecBuilder()
-            .log(STATUS)
-            .log(BODY)
-            .expectStatusCode(401)
-            .build();
 }
