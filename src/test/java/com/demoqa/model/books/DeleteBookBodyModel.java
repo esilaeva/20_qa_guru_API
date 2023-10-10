@@ -1,4 +1,4 @@
-package com.demoqa.model;
+package com.demoqa.model.books;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
 package com.demoqa.api;
 
-import com.demoqa.model.*;
+import com.demoqa.model.books.*;
 import io.qameta.allure.Step;
 
 import java.util.ArrayList;
