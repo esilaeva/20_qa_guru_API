@@ -1,7 +1,7 @@
 package com.demoqa.api;
 
-import com.demoqa.model.LoginBodyModel;
-import com.demoqa.model.LoginResponseModel;
+import com.demoqa.model.authorization.LoginBodyModel;
+import com.demoqa.model.authorization.LoginResponseModel;
 import com.demoqa.tests.TestBase;
 import io.qameta.allure.Step;
 
